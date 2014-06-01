@@ -10,7 +10,8 @@ namespace ConsoleApp_git1
     {
         static void Main(string[] args)
         {
-            string abc;
+            string abc = "abc1";
+
         }
     }
 }
